@@ -1,2 +1,2 @@
-# hello-world
+# laborator 6
 just another repository
