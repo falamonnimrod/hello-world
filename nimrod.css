@@ -1,0 +1,42 @@
+body {
+background-color: tan;
+}
+h1 {
+color: #2F4F4F;
+}
+h2 {
+color: rgb(47,79,79);
+}
+p {
+color: #f0e68c;
+}
+table {
+background-color: #DCDCDC;
+}
+ul {
+background-color: #DCDCDC;
+}
+table, tr, td, ul {
+border: 5px solid black;
+}
+tr:hover {
+background-color:  #DCDCDC
+}
+h1 {
+font-family: "Times New Roman";
+font-style: italic;
+font-size: 40px;
+}
+p {
+font-family: "Verdana";
+font-size: 17px;
+}
+img {
+border: 5px solid black;
+border-radius: 50px;
+width: 300px;
+display: block;
+padding: 5px;
+margin: left;
+opacity: 2.5;
+}
